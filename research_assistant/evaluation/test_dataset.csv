@@ -1,0 +1,6 @@
+question,ground_truth
+"What is a transformer model in deep learning?","A transformer is a deep learning architecture that uses self-attention mechanisms to process sequential data in parallel, introduced in the paper 'Attention Is All You Need' by Vaswani et al. in 2017."
+"How does retrieval augmented generation work?","RAG combines a retrieval system with a generative model. It first retrieves relevant documents from a knowledge base using similarity search, then feeds those documents as context to a language model to generate grounded answers."
+"What is the purpose of the attention mechanism?","The attention mechanism allows a model to focus on different parts of the input sequence when producing each element of the output, assigning learned weights to determine relevance between tokens."
+"Explain the concept of vector embeddings.","Vector embeddings are dense numerical representations of data (text, images, etc.) in a continuous vector space where semantically similar items are mapped to nearby points, enabling similarity search and machine learning operations."
+"What is FAISS and how is it used?","FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors. It is used to index and search large collections of embeddings for nearest neighbor retrieval in applications like RAG pipelines."

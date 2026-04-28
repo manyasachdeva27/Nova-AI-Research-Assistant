@@ -1,0 +1,8 @@
+ragas
+datasets
+pandas
+requests
+python-dotenv
+langchain
+langchain-groq
+langchain-huggingface

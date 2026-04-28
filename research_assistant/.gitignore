@@ -1,0 +1,26 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# FAISS index (generated at runtime)
+volumes/faiss_index/*.faiss
+volumes/faiss_index/*.pkl
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Evaluation outputs
+evaluation_results.json
+*_report.md
+
+backend/volumes/faiss_index/*.faiss
+backend/volumes/faiss_index/*.pkl

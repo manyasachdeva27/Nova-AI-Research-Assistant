@@ -1,0 +1,2 @@
+# This directory stores the FAISS vector index.
+# It is mounted as a Docker volume for persistence.
