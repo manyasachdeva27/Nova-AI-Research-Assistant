@@ -121,7 +121,3 @@ python evaluate.py --csv test_dataset.csv --backend http://localhost:8000
 | `COHERE_API_KEY` | Reranking | [cohere.com](https://cohere.com) |
 | `TAVILY_API_KEY` | Web search | [tavily.com](https://tavily.com) |
 | `LANGSMITH_API_KEY` | Tracing (optional) | [smith.langchain.com](https://smith.langchain.com) |
-
-## 📝 License
-
-MIT License
